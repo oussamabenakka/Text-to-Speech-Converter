@@ -1,0 +1,20 @@
+C:\Users\OUSSAMA\Desktop\Text to Speech Converter\bin\Debug\Text to Speech Converter.exe.config
+C:\Users\OUSSAMA\Desktop\Text to Speech Converter\bin\Debug\Text to Speech Converter.exe
+C:\Users\OUSSAMA\Desktop\Text to Speech Converter\bin\Debug\Text to Speech Converter.pdb
+C:\Users\OUSSAMA\Desktop\Text to Speech Converter\obj\Debug\Text to Speech Converter.csprojAssemblyReference.cache
+C:\Users\OUSSAMA\Desktop\Text to Speech Converter\obj\Debug\Text_to_Speech_Converter.Form1.resources
+C:\Users\OUSSAMA\Desktop\Text to Speech Converter\obj\Debug\Text_to_Speech_Converter.Properties.Resources.resources
+C:\Users\OUSSAMA\Desktop\Text to Speech Converter\obj\Debug\Text to Speech Converter.csproj.GenerateResource.cache
+C:\Users\OUSSAMA\Desktop\Text to Speech Converter\obj\Debug\Text to Speech Converter.exe
+C:\Users\OUSSAMA\Desktop\Text to Speech Converter\obj\Debug\Text to Speech Converter.pdb
+C:\Users\OUSSAMA\Desktop\Text to Speech Converter\obj\Debug\Text to Speech Converter.csproj.CopyComplete
+C:\Users\OUSSAMA\Desktop\C sharp\Corona verus\Text to Speech Converter\bin\Debug\Text to Speech Converter.exe.config
+C:\Users\OUSSAMA\Desktop\C sharp\Corona verus\Text to Speech Converter\bin\Debug\Text to Speech Converter.exe
+C:\Users\OUSSAMA\Desktop\C sharp\Corona verus\Text to Speech Converter\bin\Debug\Text to Speech Converter.pdb
+C:\Users\OUSSAMA\Desktop\C sharp\Corona verus\Text to Speech Converter\obj\Debug\Text to Speech Converter.csprojAssemblyReference.cache
+C:\Users\OUSSAMA\Desktop\C sharp\Corona verus\Text to Speech Converter\obj\Debug\Text_to_Speech_Converter.Form1.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Corona verus\Text to Speech Converter\obj\Debug\Text_to_Speech_Converter.Properties.Resources.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Corona verus\Text to Speech Converter\obj\Debug\Text to Speech Converter.csproj.GenerateResource.cache
+C:\Users\OUSSAMA\Desktop\C sharp\Corona verus\Text to Speech Converter\obj\Debug\Text to Speech Converter.csproj.CoreCompileInputs.cache
+C:\Users\OUSSAMA\Desktop\C sharp\Corona verus\Text to Speech Converter\obj\Debug\Text to Speech Converter.exe
+C:\Users\OUSSAMA\Desktop\C sharp\Corona verus\Text to Speech Converter\obj\Debug\Text to Speech Converter.pdb
